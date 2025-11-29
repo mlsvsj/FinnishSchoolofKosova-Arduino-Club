@@ -1,4 +1,3 @@
-Arduino club-Project1.png
 # Traffic Light Project - Arduino Club
 
 This is a simple Arduino project to control a yellow LED like a traffic light.
