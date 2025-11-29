@@ -11,3 +11,5 @@ This is a simple Arduino project to control a yellow LED like a traffic light.
 1. Connect the LED with the resistor to Arduino pin 12 and GND.
 2. Upload the code `.ino` to Arduino using Arduino IDE.
 3. The LED will turn on and off according to the program.
+   
+<img width="1463" height="599" alt="Arduino club-Project1" src="https://github.com/user-attachments/assets/6cd87e6e-d0aa-49c2-a9db-d1f25dcfb8f4" />
